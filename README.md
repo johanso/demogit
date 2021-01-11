@@ -1,3 +1,3 @@
 # Practicando GIT
 
-Practicando git con sourcetree
+Practicando git con sourcetree desde Local
